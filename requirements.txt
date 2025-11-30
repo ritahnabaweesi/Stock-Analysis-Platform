@@ -1,0 +1,9 @@
+jupyter==1.0.0 
+pandas==2.0.3 
+numpy==1.24.3 
+yfinance==0.2.18 
+ta==0.10.2 
+plotly==5.15.0 
+matplotlib==3.7.1 
+seaborn==0.12.2 
+python-dotenv==1.0.0 
