@@ -1,2 +1,11 @@
-# Stock-Analysis-Platform
-As an investor struggling to efficiently track and analyze my portfolio, I identified a gap in accessible technical analysis tools. This inspired me to build an interactive platform that transforms complex financial data into actionable insights. Users can now seamlessly compare stocks, visualize key indicators like RSI and moving averages, and receive clear interpretations all within an intuitive interface designed for both novice and experienced traders.
+# Stock-Comparison-Platform
+An interactive web application for comparing stock technical indicators with real time data.
+## Features
+- Real-time stock data from Yahoo Finance
+- Technical indicators: RSI, SMA, EMA, MACD, Bollinger Bands
+- Interactive charts and comparison tools
+- Customizable analysis periods
+## Usage
+Visit the deployed app or run locally with:
+```bash
+streamlit run app.py
