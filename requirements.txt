@@ -1,9 +1,6 @@
-jupyter==1.0.0 
-pandas==2.0.3 
-numpy==1.24.3 
-yfinance==0.2.18 
-ta==0.10.2 
-plotly==5.15.0 
-matplotlib==3.7.1 
-seaborn==0.12.2 
-python-dotenv==1.0.0 
+streamlit==1.28.0
+pandas==2.1.4
+numpy==1.26.0
+yfinance==0.2.18
+matplotlib==3.8.0
+requests==2.31.0
