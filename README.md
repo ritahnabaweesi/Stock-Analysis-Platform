@@ -1,2 +1,2 @@
 # Stock-Analysis-Platform
-Interactive stock analysis platform with a graphical view of key technical indicators
+As an investor struggling to efficiently track and analyze my portfolio, I identified a gap in accessible technical analysis tools. This inspired me to build an interactive platform that transforms complex financial data into actionable insights. Users can now seamlessly compare stocks, visualize key indicators like RSI and moving averages, and receive clear interpretations all within an intuitive interface designed for both novice and experienced traders.
